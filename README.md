@@ -38,6 +38,6 @@ The design rests on three decisions, each documented as its own ADR:
 
 ## About
 
-**Go Cloud Architects**
+**AI & Identity Security Architect @ Go Cloud Architects**
 
 Contact: curtis@igasecurityconsulting.com
