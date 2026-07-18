@@ -38,6 +38,6 @@ The design rests on three decisions, each documented as its own ADR:
 
 ## About
 
-This case study is part of a broader identity security architecture portfolio produced by **Go Cloud Architects**.
+**Go Cloud Architects**
 
 Contact: curtis@igasecurityconsulting.com
